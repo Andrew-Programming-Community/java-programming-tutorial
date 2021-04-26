@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Java核心技术",
+  "author": "Cay S. Horstmann",
+  "isbn": "9787111547426",
+  "tags": [
+    "Java",
+    "Network"
+  ],
+  "pubDate": "2016-09-01",
+  "price": 119.5
+}
