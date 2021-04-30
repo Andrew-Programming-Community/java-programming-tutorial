@@ -9,6 +9,9 @@ public class NumberLiteral {
     System.out.println(07777);//4095
     System.out.println(0XFFFF);// 65535
 
+
+
+
     long ssn = 232_45_4519;
     long creditCardNumber = 2324_4545_4519_3415L;
 
